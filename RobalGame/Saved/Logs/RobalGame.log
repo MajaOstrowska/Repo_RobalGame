@@ -12176,3 +12176,1685 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.20-21.45.09:559][951]AssetCheck: New page: Asset Save: multiple assets
 [2023.01.20-21.45.09:559][951]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2023.01.20-21.45.09:559][951]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.01.20-21.46.35:084][618]LogEditorViewport: Clicking Background
+[2023.01.20-21.46.36:138][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.01.20-21.46.36:154][728]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerExampleMap5051288643122DC648D11799A40BC793.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.01.20-21.46.36:164][728]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerExampleMap_BuiltDa27B822E247C45531C4BA309CD59CCF3E.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2023.01.20-21.46.36:177][728]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.20-21.46.36:177][728]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2023.01.20-21.46.36:177][728]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.01.20-21.46.37:135][835]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-21.46.37:141][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-21.46.37:141][835]PIE: New page: PIE session: 2DSideScrollerExampleMap (20 sty 2023, 23:46:37)
+[2023.01.20-21.46.37:178][835]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-21.46.37:182][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003339s)
+[2023.01.20-21.46.37:183][835]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.20-21.46.37:185][835]LogPlayLevel: PIE: World Init took: (0.002903s)
+[2023.01.20-21.46.37:185][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006396s)
+[2023.01.20-21.46.37:207][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.01.20-21.46.37:207][835]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2023.01.20-21.46.37:207][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-21.46.37:207][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-21.46.37:207][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-21.46.37:207][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-21.46.37:207][835]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-21.46.37:207][835]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-21.46.37:207][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-21.46.37:207][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-21.46.37:208][835]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-21.46.37:208][835]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-21.46.37:208][835]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-21.46.37:208][835]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-21.46.37:210][835]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-21.46.37:210][835]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-21.46.37:217][835]LogAudioMixer: Display: Using Audio Device MSI MP271 (NVIDIA High Definition Audio)
+[2023.01.20-21.46.37:217][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-21.46.37:217][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-21.46.37:217][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-21.46.37:218][835]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-21.46.37:218][835]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-21.46.37:218][835]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-21.46.37:219][835]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-21.46.37:219][835]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-21.46.37:219][835]LogInit: FAudioDevice initialized.
+[2023.01.20-21.46.37:219][835]LogAudio: Display: Audio Device (ID: 44) registered with world '2DSideScrollerExampleMap'.
+[2023.01.20-21.46.37:232][835]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.20-21.46.37:233][835]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.20-22.46.37
+[2023.01.20-21.46.37:233][835]LogWorld: Bringing up level for play took: 0.001322
+[2023.01.20-21.46.37:233][835]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2023.01.20-21.46.37:235][835]PIE: Server logged in
+[2023.01.20-21.46.37:235][835]PIE: Play in editor total start time 0,097 seconds.
+[2023.01.20-21.47.07:202][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-21.47.07:202][424]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-21.47.07:202][424]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-21.47.07:202][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-21.47.07:209][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-21.47.07:213][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-21.47.07:234][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-21.47.07:234][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-21.47.07:235][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-21.47.07:240][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.01.20-21.47.07:320][426]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.01.20-21.47.13:693][101]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.01.20-21.47.13:703][101]LogContentBrowser: Creating deferred item: NewFolder
+[2023.01.20-21.47.16:356][420]LogContentBrowser: Attempting asset rename: NewFolder -> Particles
+[2023.01.20-21.47.16:359][420]LogContentBrowser: End creating deferred item NewFolder
+[2023.01.20-21.47.22:373][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.01.20-21.47.22:389][116]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerExampleMap572048C3453B7DD1B243F29FDAA74545.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.01.20-21.47.22:399][116]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerExampleMap_BuiltDaC3C1F9E24576D694F38D85BDDF67BD9C.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2023.01.20-21.47.22:410][116]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.20-21.47.22:410][116]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2023.01.20-21.47.22:410][116]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.01.20-21.47.30:671][686]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.01.20-21.47.30:690][686]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.01.20-21.47.37:243][473]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Particle
+[2023.01.20-21.47.37:244][473]LogContentBrowser: End creating deferred item NewMaterial
+[2023.01.20-21.47.44:753][772]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/2DSideScroller/Particles/M_Particle.M_Particle
+[2023.01.20-21.47.45:132][772]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 3B6922A0173AB2AC002381C22025DE6E00E2D4D5), compiling. 
+[2023.01.20-21.47.45:155][772]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.01.20-21.47.45:279][772]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.01.20-21.47.45:554][772]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.01.20-21.47.45:677][772]LogMaterial: Display: Missing cached shadermap for M_SkyBox in PCD3D_SM5, Default, SM5 (DDC key hash: CE27C5F5C3D434A26640D5605E63A874751398AE), compiling. 
+[2023.01.20-21.47.45:685][772]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2023.01.20-21.47.45:711][772]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2023.01.20-21.47.45:711][772]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2023.01.20-21.47.45:711][772]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.01.20-21.47.45:711][772]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2023.01.20-21.47.45:711][772]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2023.01.20-21.47.45:711][772]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.01.20-21.47.45:711][772]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-21.47.45:924][772]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: CE30AD992CF3E803A2EACD906A3B3DAC5DDBC7A8), compiling. 
+[2023.01.20-21.47.45:968][772]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.47.46:136][772]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.47.46:136][772]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.01.20-21.47.46:136][772]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.01.20-21.47.46:136][772]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.47.46:136][772]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.01.20-21.47.46:137][772]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2023.01.20-21.47.46:137][772]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2023.01.20-21.47.46:137][772]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.47.46:137][772]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2023.01.20-21.47.46:137][772]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.47.46:137][772]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.01.20-21.47.46:137][772]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.47.46:143][773]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.20-21.47.46:143][773]LogShaderCompilers: Display: Total job queries 26, among them cache hits 0 (0.00%)
+[2023.01.20-21.47.46:143][773]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.01.20-21.47.46:143][773]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.01.20-21.47.46:143][773]LogShaderCompilers: Display: ================================================
+[2023.01.20-21.47.46:271][782]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.01.20-21.47.46:272][782]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.47.46:321][786]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.01.20-21.47.46:321][786]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.47.46:573][805]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.20-21.47.50:160][ 50]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.47.51:337][ 85]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.47.51:337][ 85]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.47.51:337][ 85]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.47.51:337][ 85]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.47.58:069][468]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 5DA7E27B4E95E71B618C827EE4E16AA9A823639C), compiling. 
+[2023.01.20-21.47.58:223][468]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.47.58:295][469]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B5ACEE508996A7C049F56717CA5DE221D1036E16), compiling. 
+[2023.01.20-21.47.58:296][469]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.47.58:296][469]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.47.58:296][469]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.47.58:296][469]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.47.58:307][470]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.47.58:307][470]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2023.01.20-21.47.58:315][471]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.01.20-21.47.58:315][471]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.01.20-21.47.58:315][471]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.01.20-21.47.58:315][471]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2023.01.20-21.47.58:315][471]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2023.01.20-21.47.58:315][471]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.01.20-21.47.58:315][471]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.47.58:315][471]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.48.12:528][922]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 972A69063B3DCE8D0FB1AA092ECB329F5E62A973), compiling. 
+[2023.01.20-21.48.12:531][922]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.48.12:532][922]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.48.12:538][923]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.48.12:538][923]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.01.20-21.48.12:538][923]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.01.20-21.48.12:538][923]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.48.12:547][924]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.01.20-21.48.12:547][924]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.01.20-21.48.12:547][924]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.01.20-21.48.12:547][924]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.01.20-21.48.12:547][924]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.01.20-21.48.12:547][924]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.48.13:032][959]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.20-21.48.13:032][959]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.48.16:183][179]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.48.16:183][179]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.48.18:096][324]MaterialEditorStats: Base pass shader: 674 instructions
+[2023.01.20-21.48.18:096][324]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 745 instructions
+[2023.01.20-21.48.18:096][324]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-21.48.18:097][324]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.48.18:097][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.48.36:580][430]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: FAAF6C9F23D7EB3F3EB7DC9CDDB5E2872DF58D9D), compiling. 
+[2023.01.20-21.48.36:582][430]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.48.36:622][432]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.48.36:634][433]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.48.36:634][433]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.48.36:634][433]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.48.36:634][433]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.48.41:917][901]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 19EE05CAB312E6E60ADC5726F661DA358C6EF119), compiling. 
+[2023.01.20-21.48.41:920][901]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.48.41:955][903]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.48.41:966][904]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.48.41:966][904]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.48.41:966][904]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.48.41:966][904]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.48.51:332][337]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 9BCDA774AE312AD172C1313C522B64C67074F639), compiling. 
+[2023.01.20-21.48.51:335][337]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.48.51:367][338]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.48.51:367][338]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.48.51:367][338]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.48.51:367][338]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.03:057][973]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 55094A297781560AB767AFA1D5852085B9773AE5), compiling. 
+[2023.01.20-21.49.03:060][973]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.49.03:096][975]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.03:108][976]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.49.03:108][976]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.49.03:109][976]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.49.03:109][976]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.06:682][300]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: B2F8ADA1AE3B74A57086CE8EBD1B568AAC6935F2), compiling. 
+[2023.01.20-21.49.06:684][300]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.49.06:718][302]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.06:729][303]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.49.06:729][303]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.49.06:729][303]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.49.06:729][303]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.09:151][521]LogMaterialEditor: Saving and Compiling material M_Particle
+[2023.01.20-21.49.09:800][521]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: B91A2F74516FBE3C639CFFB8DFD0F365E02CF00E), compiling. 
+[2023.01.20-21.49.09:830][521]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: EDCBFC177DC2956831FC18D5A25D8604450F5032), compiling. 
+[2023.01.20-21.49.09:864][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.01.20-21.49.09:887][521]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.49.10:143][521]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.01.20-21.49.10:144][521]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.49.10:144][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.01.20-21.49.10:192][521]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.01.20-21.49.10:196][521]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.01.20-21.49.10:196][521]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.01.20-21.49.10:196][521]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2023.01.20-21.49.10:196][521]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.01.20-21.49.10:196][521]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.01.20-21.49.10:196][521]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.49.10:209][521]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/M_ParticleBA7278044CBED73605E37498E4E57251.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/M_Particle.uasset'
+[2023.01.20-21.49.10:224][521]AssetCheck: New page: Asset Save: M_Particle
+[2023.01.20-21.49.10:224][521]LogContentValidation: Display: Validating Material /Game/2DSideScroller/Particles/M_Particle.M_Particle
+[2023.01.20-21.49.10:248][521]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.12:625][697]MaterialEditorStats: Texture samplers: 5/16
+[2023.01.20-21.49.13:341][702]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.49.13:341][702]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.49.13:341][702]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.49.13:341][702]MaterialEditorStats: Texture samplers: 5/16
+[2023.01.20-21.49.16:194][868]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 6B0320ADC6654DEF3AE612598BA0EB3FE30E952B), compiling. 
+[2023.01.20-21.49.16:199][868]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.49.16:244][870]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.16:256][871]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.49.16:256][871]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.49.16:256][871]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.49.16:256][871]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.23:683][144]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 092BE2ACD5E4CA8EFE10EDBC885F98E9AFEDECAF), compiling. 
+[2023.01.20-21.49.23:689][144]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.49.23:707][146]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.23:735][148]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.49.23:735][148]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.49.23:735][148]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.49.23:735][148]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.25:472][302]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 4C225F97AA068FEA8DF331A4389C77DEC7E7A730), compiling. 
+[2023.01.20-21.49.25:478][302]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.49.25:512][304]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.25:523][305]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.49.25:524][305]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.49.25:524][305]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.49.25:524][305]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.27:210][456]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 0E322A63C0A17B19C3EEBF52A9C523EE6902716B), compiling. 
+[2023.01.20-21.49.27:215][456]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.49.27:232][458]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.27:263][460]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.49.27:263][460]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.49.27:263][460]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.49.27:263][460]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.44:492][369]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 2704E7A4627AECA638F14984ED9AB62054DDEBD8), compiling. 
+[2023.01.20-21.49.44:493][369]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.49.44:511][371]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.44:539][373]MaterialEditorStats: Base pass shader: 659 instructions
+[2023.01.20-21.49.44:539][373]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 730 instructions
+[2023.01.20-21.49.44:539][373]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2023.01.20-21.49.44:540][373]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.47:858][668]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: BA9F7E8138AAB4FDE9CEDD8B23011A347CD53A48), compiling. 
+[2023.01.20-21.49.47:863][668]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.49.47:863][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.49.47:872][669]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.49.47:881][670]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.01.20-21.49.47:881][670]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.01.20-21.49.47:881][670]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.01.20-21.49.47:881][670]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2023.01.20-21.49.47:881][670]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.01.20-21.49.47:881][670]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2023.01.20-21.49.47:881][670]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2023.01.20-21.49.47:881][670]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.49.47:881][670]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.49.48:501][718]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.20-21.49.48:501][718]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.49.51:680][976]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.51:681][976]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.49.53:998][150]MaterialEditorStats: Base pass shader: 674 instructions
+[2023.01.20-21.49.53:998][150]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 745 instructions
+[2023.01.20-21.49.53:998][150]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-21.49.53:998][150]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.49.53:998][150]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.50.01:119][294]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 5357AC1C06591A6BFC9A4A2B77880A4E73FCC1DF), compiling. 
+[2023.01.20-21.50.01:122][294]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.50.01:122][294]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.50.01:139][296]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.50.01:139][296]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.50.01:167][298]MaterialEditorStats: Base pass shader: 674 instructions
+[2023.01.20-21.50.01:167][298]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 745 instructions
+[2023.01.20-21.50.01:167][298]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-21.50.01:167][298]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.50.01:167][298]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.50.10:730][651]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: F8C423F2557541AD88EB52141F70825AACB54CAF), compiling. 
+[2023.01.20-21.50.10:733][651]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.50.10:733][651]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.50.10:751][653]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.50.10:751][653]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.50.10:793][655]MaterialEditorStats: Base pass shader: 674 instructions
+[2023.01.20-21.50.10:793][655]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 745 instructions
+[2023.01.20-21.50.10:793][655]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-21.50.10:793][655]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.50.10:793][655]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.50.12:758][831]LogMaterialEditor: Saving and Compiling material M_Particle
+[2023.01.20-21.50.13:032][831]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 8A9423B5B7C4DFB5E10D112D97138B6037143E89), compiling. 
+[2023.01.20-21.50.13:064][831]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 23A7199695AD36278A4B1975FC53F74808B92D18), compiling. 
+[2023.01.20-21.50.13:099][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.01.20-21.50.13:104][831]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.50.13:341][831]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.01.20-21.50.13:341][831]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.50.13:341][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.01.20-21.50.13:375][831]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2023.01.20-21.50.13:379][831]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2023.01.20-21.50.13:379][831]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.01.20-21.50.13:379][831]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2023.01.20-21.50.13:379][831]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.01.20-21.50.13:379][831]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.01.20-21.50.13:379][831]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.50.13:394][831]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/M_ParticleF7BF003A47734E6D2943F9BCFC05A32A.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/M_Particle.uasset'
+[2023.01.20-21.50.13:409][831]AssetCheck: New page: Asset Save: M_Particle
+[2023.01.20-21.50.13:409][831]LogContentValidation: Display: Validating Material /Game/2DSideScroller/Particles/M_Particle.M_Particle
+[2023.01.20-21.50.13:427][831]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.50.13:427][831]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.50.16:150][  1]MaterialEditorStats: Base pass shader: 674 instructions
+[2023.01.20-21.50.16:150][  1]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 745 instructions
+[2023.01.20-21.50.16:151][  1]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-21.50.16:151][  1]MaterialEditorStats: Texture samplers: 5/16
+[2023.01.20-21.50.16:151][  1]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.51.09:210][603]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: D9B15FD658FC998BFB7D02E3A9E94A901E324C1C), compiling. 
+[2023.01.20-21.51.09:217][603]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.51.09:217][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.51.09:229][604]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.20-21.51.09:229][604]LogShaderCompilers: Display: Total job queries 277, among them cache hits 213 (76.90%)
+[2023.01.20-21.51.09:229][604]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 30 distinct outputs (55.56%)
+[2023.01.20-21.51.09:229][604]LogShaderCompilers: Display: RAM used: 0.42 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.01.20-21.51.09:229][604]LogShaderCompilers: Display: ================================================
+[2023.01.20-21.51.09:248][605]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.51.09:248][605]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.51.09:287][607]MaterialEditorStats: Base pass shader: 674 instructions
+[2023.01.20-21.51.09:287][607]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 745 instructions
+[2023.01.20-21.51.09:287][607]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-21.51.09:287][607]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.51.09:287][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.51.10:192][686]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 19B66F3D34C44F89D81FF41071BD6B3416EC4618), compiling. 
+[2023.01.20-21.51.10:196][686]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: AA2D86B561903FC16009C4AFA916584AFFBB2903), compiling. 
+[2023.01.20-21.51.10:198][686]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 90269E7E82FEE2EA391C5651ADC1711DC036A5B1), compiling. 
+[2023.01.20-21.51.10:202][686]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.51.10:202][686]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.51.10:236][688]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2023.01.20-21.51.10:244][689]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.01.20-21.51.10:244][689]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.01.20-21.51.10:244][689]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2023.01.20-21.51.10:244][689]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2023.01.20-21.51.10:244][689]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2023.01.20-21.51.10:244][689]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2023.01.20-21.51.10:244][689]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2023.01.20-21.51.10:244][689]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2023.01.20-21.51.10:245][689]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.51.10:245][689]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.51.10:951][736]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.01.20-21.51.10:951][736]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.51.10:968][737]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.20-21.51.10:968][737]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.51.11:316][762]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.01.20-21.51.11:316][762]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.51.12:290][826]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.01.20-21.51.12:290][826]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.51.12:310][827]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.51.12:310][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.51.15:236][980]MaterialEditorStats: Base pass shader: 361 instructions
+[2023.01.20-21.51.15:236][980]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 378 instructions
+[2023.01.20-21.51.15:236][980]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-21.51.15:236][980]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.51.15:236][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.51.16:192][ 35]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 4CDDEC455F9C8DB1A5593A72AF4655A920436769), compiling. 
+[2023.01.20-21.51.16:194][ 35]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-21.51.16:194][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.51.16:233][ 38]MaterialEditorStats: Base pass shader: 361 instructions
+[2023.01.20-21.51.16:233][ 38]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 378 instructions
+[2023.01.20-21.51.16:233][ 38]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-21.51.16:233][ 38]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.51.16:233][ 38]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.51.20:633][417]LogMaterialEditor: Saving and Compiling material M_Particle
+[2023.01.20-21.51.20:923][417]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 84756F974DED2DA7A1B685B4C00F87502DB528D7), compiling. 
+[2023.01.20-21.51.20:952][417]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 723AA291ADABB13A833C88F17C086292CECD7B40), compiling. 
+[2023.01.20-21.51.21:010][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.01.20-21.51.21:015][417]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.51.21:251][417]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.01.20-21.51.21:251][417]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.51.21:251][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.01.20-21.51.21:307][417]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.01.20-21.51.21:317][417]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2023.01.20-21.51.21:317][417]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2023.01.20-21.51.21:317][417]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.01.20-21.51.21:317][417]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.01.20-21.51.21:317][417]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.51.21:323][417]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/M_ParticleD94AB7E2410518F78AC39494A0A623BE.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/M_Particle.uasset'
+[2023.01.20-21.51.21:337][417]AssetCheck: New page: Asset Save: M_Particle
+[2023.01.20-21.51.21:337][417]LogContentValidation: Display: Validating Material /Game/2DSideScroller/Particles/M_Particle.M_Particle
+[2023.01.20-21.51.21:355][417]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.51.21:355][417]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.51.23:751][550]MaterialEditorStats: Base pass shader: 361 instructions
+[2023.01.20-21.51.23:751][550]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 378 instructions
+[2023.01.20-21.51.23:751][550]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-21.51.23:751][550]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-21.51.23:751][550]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-21.51.29:411][703]LogMaterialEditor: Saving and Compiling material M_Particle
+[2023.01.20-21.51.29:445][703]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/M_Particle2DF2398B4EF30CD6C5142DB1C2E6A8BE.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/M_Particle.uasset'
+[2023.01.20-21.51.29:456][703]AssetCheck: New page: Asset Save: M_Particle
+[2023.01.20-21.51.29:456][703]LogContentValidation: Display: Validating Material /Game/2DSideScroller/Particles/M_Particle.M_Particle
+[2023.01.20-21.51.42:325][947]LogSlate: Window 'M_Particle' being destroyed
+[2023.01.20-21.51.42:379][947]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-21.51.42:379][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-21.51.44:213][ 91]LogContentBrowser: Deferred new asset file creation: NewParticleSystem
+[2023.01.20-21.51.44:223][ 91]LogContentBrowser: Creating deferred item: NewParticleSystem
+[2023.01.20-21.51.47:706][434]LogContentBrowser: Attempting asset rename: NewParticleSystem -> PS_Dust
+[2023.01.20-21.51.47:707][434]LogContentBrowser: End creating deferred item NewParticleSystem
+[2023.01.20-21.51.55:295][603]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-21.51.55:489][603]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2023.01.20-21.51.55:603][603]LogMaterial: Display: Missing cached shadermap for DefaultParticle in PCD3D_SM5, Default, SM5 (DDC key hash: 0D1BD874FF34337F35E579712BD4D6AC4E8DEB56), compiling. 
+[2023.01.20-21.51.55:713][603]LogShaderCompilers: Display: Submitted 182 shader compile jobs with 'Low' priority
+[2023.01.20-21.51.55:719][603]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 182
+[2023.01.20-21.51.55:719][603]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 172
+[2023.01.20-21.51.55:719][603]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 162
+[2023.01.20-21.51.55:719][603]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 152
+[2023.01.20-21.51.55:719][603]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 142
+[2023.01.20-21.51.55:719][603]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 132
+[2023.01.20-21.51.55:719][603]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 122
+[2023.01.20-21.51.55:719][603]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 112
+[2023.01.20-21.51.55:719][603]LogShaderCompilers: Display: Started 80 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-21.51.57:948][655]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.01.20-21.51.57:948][655]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.51.58:174][672]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2023.01.20-21.51.58:174][672]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.51.58:502][693]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2023.01.20-21.51.58:502][693]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2023.01.20-21.51.58:502][693]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.51.58:528][694]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.01.20-21.51.58:528][694]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.51.58:676][702]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2023.01.20-21.51.58:676][702]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-21.51.58:677][702]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 96
+[2023.01.20-21.51.58:677][702]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.51.58:719][704]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 86
+[2023.01.20-21.51.58:719][704]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.51.58:806][709]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 76
+[2023.01.20-21.51.58:806][709]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.51.58:946][716]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 66
+[2023.01.20-21.51.58:946][716]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.51.59:206][730]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 57
+[2023.01.20-21.51.59:206][730]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 49
+[2023.01.20-21.51.59:206][730]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.00:599][804]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2023.01.20-21.52.00:599][804]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.01:360][845]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 35
+[2023.01.20-21.52.01:360][845]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.01:563][852]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2023.01.20-21.52.01:563][852]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.01:944][869]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2023.01.20-21.52.01:944][869]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.01:973][870]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2023.01.20-21.52.01:973][870]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.02:306][886]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2023.01.20-21.52.02:306][886]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.03:135][928]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2023.01.20-21.52.03:135][928]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.03:175][930]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2023.01.20-21.52.03:175][930]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.03:313][937]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2023.01.20-21.52.03:313][937]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.03:347][938]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2023.01.20-21.52.03:347][938]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.03:539][946]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2023.01.20-21.52.03:539][946]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.03:577][947]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2023.01.20-21.52.03:577][947]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.03:758][956]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2023.01.20-21.52.03:758][956]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.03:788][957]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2023.01.20-21.52.03:788][957]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.03:788][957]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2023.01.20-21.52.03:788][957]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.03:788][957]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2023.01.20-21.52.03:788][957]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.52.03:906][963]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.01.20-21.52.03:907][963]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-21.54.47:012][952]LogMaterial: Display: Material /Game/2DSideScroller/Particles/M_Particle.M_Particle needed to have new flag set bUsedWithParticleSprites !
+[2023.01.20-21.54.47:019][952]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 6AB7CF990A0D62341812D3BCCE5F5AB9359D706A), compiling. 
+[2023.01.20-21.54.47:076][952]LogShaderCompilers: Display: Submitted 64 shader compile jobs with 'Low' priority
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 64
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 55
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 46
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: Started 64 'Local' shader compile jobs with 'Low' priority
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: Total job queries 1939, among them cache hits 1597 (82.36%)
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: Tracking 268 distinct input hashes that result in 171 distinct outputs (63.81%)
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: RAM used: 1.24 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.08%
+[2023.01.20-21.54.47:088][952]LogShaderCompilers: Display: ================================================
+[2023.01.20-21.55.01:639][722]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/PS_DustEC138B1040B37A2EEFCD02A22032F00B.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/PS_Dust.uasset'
+[2023.01.20-21.55.01:654][722]AssetCheck: New page: Asset Save: PS_Dust
+[2023.01.20-21.55.01:654][722]LogContentValidation: Display: Validating ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-21.56.04:043][636]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/PS_Dust9E1ED02F4EC323E4D8CF1A97885DFA7D.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/PS_Dust.uasset'
+[2023.01.20-21.56.04:057][636]AssetCheck: New page: Asset Save: PS_Dust
+[2023.01.20-21.56.04:057][636]LogContentValidation: Display: Validating ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-21.56.32:250][109]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.01.20-21.57.11:627][819]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/PS_Dust45C2BBB84D63DBC7DFF63282F4C4A268.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/PS_Dust.uasset'
+[2023.01.20-21.57.11:642][819]AssetCheck: New page: Asset Save: PS_Dust
+[2023.01.20-21.57.11:642][819]LogContentValidation: Display: Validating ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-21.57.38:940][129]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_3_Sprite)
+[2023.01.20-21.57.40:187][252]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Dust)
+[2023.01.20-21.57.54:985][480]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (2_Sprite)
+[2023.01.20-21.58.09:179][623]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/PS_Dust26ABF1CE46A54079EDB0E2BA7EB94569.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/PS_Dust.uasset'
+[2023.01.20-21.58.09:192][623]AssetCheck: New page: Asset Save: PS_Dust
+[2023.01.20-21.58.09:193][623]LogContentValidation: Display: Validating ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-21.58.12:578][899]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (grass_3_Sprite)
+[2023.01.20-21.58.59:252][544]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2023.01.20-21.58.59:270][544]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerExampleMap_Auto1D3C11D854DB25482BE0488A1AD8CD5F3.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2023.01.20-21.58.59:272][544]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.091
+[2023.01.20-21.58.59:272][544]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2023.01.20-21.58.59:272][544]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter] ([2] browsable assets)...
+[2023.01.20-21.58.59:272][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter]
+[2023.01.20-21.58.59:296][544]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerCharacter_Auto17F481564477373ABD65EEBA06F8AEBC5.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter_Auto1.uasset'
+[2023.01.20-21.58.59:297][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/grass] ([1] browsable assets)...
+[2023.01.20-21.58.59:305][544]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/grass.grass]
+[2023.01.20-21.58.59:305][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/grass]
+[2023.01.20-21.58.59:309][544]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/grass_Auto1EA5A8C9244F04064FD17848EC3F0FC7B.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/Autosaves/Game/2DSideScroller/Sprites/grass_Auto1.uasset'
+[2023.01.20-21.58.59:310][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/textures/grass_1] ([1] browsable assets)...
+[2023.01.20-21.58.59:314][544]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/textures/grass_1.grass_1]
+[2023.01.20-21.58.59:314][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/textures/grass_1]
+[2023.01.20-21.58.59:317][544]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/grass_1_Auto1B2945EF24437F47545356A9D7D083924.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/Autosaves/Game/2DSideScroller/Sprites/textures/grass_1_Auto1.uasset'
+[2023.01.20-21.58.59:319][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/textures/grass_2] ([1] browsable assets)...
+[2023.01.20-21.58.59:324][544]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/textures/grass_2.grass_2]
+[2023.01.20-21.58.59:324][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/textures/grass_2]
+[2023.01.20-21.58.59:329][544]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/grass_2_Auto10045D3494DF3A6741027CD8908F25421.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/Autosaves/Game/2DSideScroller/Sprites/textures/grass_2_Auto1.uasset'
+[2023.01.20-21.58.59:330][544]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/textures/grass_3] ([1] browsable assets)...
+[2023.01.20-21.58.59:333][544]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/textures/grass_3.grass_3]
+[2023.01.20-21.58.59:333][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/textures/grass_3]
+[2023.01.20-21.58.59:337][544]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/grass_3_Auto132B44EEB4D1C91B9EC74C3ADCF0EB3A3.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/Autosaves/Game/2DSideScroller/Sprites/textures/grass_3_Auto1.uasset'
+[2023.01.20-21.58.59:338][544]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScroller/Particles/M_Particle] ([1] browsable assets)...
+[2023.01.20-21.58.59:338][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Particles/M_Particle]
+[2023.01.20-21.58.59:340][544]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/M_Particle_Auto174DE67414523715A0790C08CA5814C98.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/Autosaves/Game/2DSideScroller/Particles/M_Particle_Auto1.uasset'
+[2023.01.20-21.58.59:340][544]LogFileHelpers: Auto-saving content packages took 0.070
+[2023.01.20-21.59.38:098][416]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/PS_DustAE80C6A949C6DC7DFB19118C104126DA.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/PS_Dust.uasset'
+[2023.01.20-21.59.38:112][416]AssetCheck: New page: Asset Save: PS_Dust
+[2023.01.20-21.59.38:112][416]LogContentValidation: Display: Validating ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-21.59.43:364][775]LogEditorViewport: Clicking Background
+[2023.01.20-22.06.19:797][802]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/PS_DustEAE5D7C64CE399C8A608F0B310DA1926.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/PS_Dust.uasset'
+[2023.01.20-22.06.19:813][802]AssetCheck: New page: Asset Save: PS_Dust
+[2023.01.20-22.06.19:813][802]LogContentValidation: Display: Validating ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-22.07.27:147][982]LogSlate: Window 'Color Picker' being destroyed
+[2023.01.20-22.07.31:098][225]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/PS_Dust13F13B1A4711366FD3ECC993B1609BA9.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/PS_Dust.uasset'
+[2023.01.20-22.07.31:111][225]AssetCheck: New page: Asset Save: PS_Dust
+[2023.01.20-22.07.31:112][225]LogContentValidation: Display: Validating ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-22.09.19:068][507]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/PS_DustB7E45B884196896810BE61B8104DAF73.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/PS_Dust.uasset'
+[2023.01.20-22.09.19:082][507]AssetCheck: New page: Asset Save: PS_Dust
+[2023.01.20-22.09.19:082][507]LogContentValidation: Display: Validating ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-22.09.27:164][ 66]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/2DSideScroller/Particles/M_Particle.M_Particle
+[2023.01.20-22.09.27:165][ 66]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2DF9B8776BB2ABBC581F7224A7A30ABE75342B64), compiling. 
+[2023.01.20-22.09.27:179][ 66]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2023.01.20-22.09.27:241][ 66]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A0168878391BFF6FD235D743D1534C8127637AFA), compiling. 
+[2023.01.20-22.09.27:243][ 66]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3983BE4A8BBF200C72E69AC420613E6B68AA9F00), compiling. 
+[2023.01.20-22.09.27:255][ 66]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-22.09.27:255][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.09.27:636][ 67]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2023.01.20-22.09.27:636][ 67]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.01.20-22.09.27:636][ 67]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.01.20-22.09.27:636][ 67]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2023.01.20-22.09.27:636][ 67]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2023.01.20-22.09.27:636][ 67]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2023.01.20-22.09.27:636][ 67]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2023.01.20-22.09.27:636][ 67]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2023.01.20-22.09.27:636][ 67]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2023.01.20-22.09.27:636][ 67]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-22.09.27:636][ 67]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-22.09.28:364][103]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.01.20-22.09.28:364][103]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-22.09.28:369][103]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.20-22.09.28:369][103]LogShaderCompilers: Display: Total job queries 2004, among them cache hits 1616 (80.64%)
+[2023.01.20-22.09.28:369][103]LogShaderCompilers: Display: Tracking 333 distinct input hashes that result in 195 distinct outputs (58.56%)
+[2023.01.20-22.09.28:369][103]LogShaderCompilers: Display: RAM used: 1.50 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.09%
+[2023.01.20-22.09.28:369][103]LogShaderCompilers: Display: ================================================
+[2023.01.20-22.09.28:387][104]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.20-22.09.28:387][104]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.09.28:745][126]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.01.20-22.09.28:745][126]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-22.09.29:741][183]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.01.20-22.09.29:742][183]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-22.09.29:764][184]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-22.09.29:764][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.09.32:263][297]MaterialEditorStats: Base pass shader: 361 instructions
+[2023.01.20-22.09.32:263][297]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 378 instructions
+[2023.01.20-22.09.32:263][297]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-22.09.32:263][297]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-22.09.32:263][297]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.09.46:867][919]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F131ADD0D9F2FB392F476383F0E6CBEE8CED9DC1), compiling. 
+[2023.01.20-22.09.46:870][919]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0CCBDFFF49A9A41D83BE0B581CA03523E3E2AD8D), compiling. 
+[2023.01.20-22.09.46:876][919]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-22.09.46:876][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.09.46:914][920]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2023.01.20-22.09.46:914][920]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.01.20-22.09.46:914][920]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.01.20-22.09.46:914][920]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2023.01.20-22.09.46:914][920]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2023.01.20-22.09.46:914][920]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2023.01.20-22.09.46:914][920]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2023.01.20-22.09.46:914][920]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2023.01.20-22.09.46:914][920]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2023.01.20-22.09.46:914][920]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-22.09.46:914][920]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.01.20-22.09.47:535][956]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.01.20-22.09.47:535][956]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-22.09.47:552][957]MaterialEditorStats: Texture samplers: 2/16
+[2023.01.20-22.09.47:552][957]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.09.47:902][978]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.01.20-22.09.47:902][978]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-22.09.48:828][ 30]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.01.20-22.09.48:828][ 30]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.01.20-22.09.48:859][ 31]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-22.09.48:859][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.09.51:369][172]MaterialEditorStats: Base pass shader: 362 instructions
+[2023.01.20-22.09.51:369][172]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 379 instructions
+[2023.01.20-22.09.51:369][172]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-22.09.51:369][172]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-22.09.51:369][172]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.09.54:767][364]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4EBB11652F587B284DCC5255D6FD605207BC0B16), compiling. 
+[2023.01.20-22.09.54:774][364]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F8F7F67C934C36E14E8DF4FB0DF80ECC42B11B15), compiling. 
+[2023.01.20-22.09.54:776][364]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-22.09.54:776][364]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.09.54:819][367]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-22.09.54:819][367]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.09.54:843][368]MaterialEditorStats: Base pass shader: 362 instructions
+[2023.01.20-22.09.54:843][368]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 379 instructions
+[2023.01.20-22.09.54:843][368]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-22.09.54:843][368]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-22.09.54:843][368]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.10.10:909][917]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 252A7A49B662EDA38D2077EB9C574FF924BC78EA), compiling. 
+[2023.01.20-22.10.10:910][917]MaterialEditorStats: Texture samplers: 0/16
+[2023.01.20-22.10.10:910][917]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.10.10:954][919]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-22.10.10:954][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.10.10:965][920]MaterialEditorStats: Base pass shader: 361 instructions
+[2023.01.20-22.10.10:965][920]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 378 instructions
+[2023.01.20-22.10.10:965][920]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-22.10.10:965][920]MaterialEditorStats: Texture samplers: 4/16
+[2023.01.20-22.10.10:965][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.10.12:575][ 16]LogMaterialEditor: Saving and Compiling material M_Particle
+[2023.01.20-22.10.12:860][ 16]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0879678503EDEFED2F2FE25D50C356D340E1CC6D), compiling. 
+[2023.01.20-22.10.12:890][ 16]LogMaterial: Display: Missing cached shadermap for M_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: A5AA0A4EFFE6A13C2BC4773E016DAD4EDBAAF44D), compiling. 
+[2023.01.20-22.10.12:959][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.01.20-22.10.13:101][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.01.20-22.10.13:211][ 16]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/M_ParticleD111C9114EDA54D5E90C8DA3C6DA8F4F.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/M_Particle.uasset'
+[2023.01.20-22.10.13:222][ 16]AssetCheck: New page: Asset Save: M_Particle
+[2023.01.20-22.10.13:222][ 16]LogContentValidation: Display: Validating Material /Game/2DSideScroller/Particles/M_Particle.M_Particle
+[2023.01.20-22.10.13:269][ 16]MaterialEditorStats: Base pass shader: 361 instructions
+[2023.01.20-22.10.13:269][ 16]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 378 instructions
+[2023.01.20-22.10.13:269][ 16]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2023.01.20-22.10.13:269][ 16]MaterialEditorStats: Texture samplers: 8/16
+[2023.01.20-22.10.13:269][ 16]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.01.20-22.10.14:657][ 82]LogSlate: Window 'M_Particle' being destroyed
+[2023.01.20-22.10.14:677][ 82]LogSlate: Window 'M_Particle' being destroyed
+[2023.01.20-22.10.14:677][ 82]LogCascade: Quitting Cascade. FXSystem=0x00000245C3C2CF40
+[2023.01.20-22.10.15:056][ 82]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.10.15:056][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.10.15:099][ 82]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.10.15:099][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.10.15:453][118]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-22.10.15:459][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-22.10.15:459][118]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 sty 2023, 00:10:15)
+[2023.01.20-22.10.15:486][118]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.10.15:491][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004647s)
+[2023.01.20-22.10.15:492][118]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.20-22.10.15:494][118]LogPlayLevel: PIE: World Init took: (0.003629s)
+[2023.01.20-22.10.15:494][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.008462s)
+[2023.01.20-22.10.15:527][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.01.20-22.10.15:528][118]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2023.01.20-22.10.15:528][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-22.10.15:528][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-22.10.15:528][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-22.10.15:528][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-22.10.15:528][118]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-22.10.15:528][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-22.10.15:528][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-22.10.15:528][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-22.10.15:529][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-22.10.15:529][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-22.10.15:529][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-22.10.15:529][118]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-22.10.15:531][118]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-22.10.15:531][118]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-22.10.15:538][118]LogAudioMixer: Display: Using Audio Device MSI MP271 (NVIDIA High Definition Audio)
+[2023.01.20-22.10.15:539][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-22.10.15:539][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-22.10.15:539][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-22.10.15:539][118]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-22.10.15:539][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-22.10.15:539][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-22.10.15:540][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-22.10.15:540][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-22.10.15:540][118]LogInit: FAudioDevice initialized.
+[2023.01.20-22.10.15:540][118]LogAudio: Display: Audio Device (ID: 45) registered with world '2DSideScrollerExampleMap'.
+[2023.01.20-22.10.15:549][118]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.20-22.10.15:551][118]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.20-23.10.15
+[2023.01.20-22.10.15:552][118]LogWorld: Bringing up level for play took: 0.001427
+[2023.01.20-22.10.15:552][118]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2023.01.20-22.10.15:554][118]PIE: Server logged in
+[2023.01.20-22.10.15:554][118]PIE: Play in editor total start time 0,097 seconds.
+[2023.01.20-22.10.25:233][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.10.25:233][274]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.10.25:234][274]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.10.25:234][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.10.25:250][274]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-22.10.25:260][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.10.25:283][274]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-22.10.25:284][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.10.25:285][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.10.25:286][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.10.25:290][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.01.20-22.10.25:307][275]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.01.20-22.10.27:413][499]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-22.10.42:506][ 31]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/PS_DustCE4C64E9441AB849EBC2C099DACABAF2.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/PS_Dust.uasset'
+[2023.01.20-22.10.42:517][ 31]AssetCheck: New page: Asset Save: PS_Dust
+[2023.01.20-22.10.42:517][ 31]LogContentValidation: Display: Validating ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-22.10.44:604][254]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-22.10.44:609][254]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-22.10.44:610][254]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 sty 2023, 00:10:44)
+[2023.01.20-22.10.44:647][254]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.10.44:658][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010736s)
+[2023.01.20-22.10.44:661][254]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.20-22.10.44:669][254]LogPlayLevel: PIE: World Init took: (0.010874s)
+[2023.01.20-22.10.44:669][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.021991s)
+[2023.01.20-22.10.44:696][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.01.20-22.10.44:700][254]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2023.01.20-22.10.44:700][254]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-22.10.44:700][254]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-22.10.44:700][254]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-22.10.44:700][254]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-22.10.44:700][254]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-22.10.44:700][254]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-22.10.44:700][254]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-22.10.44:700][254]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-22.10.44:700][254]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-22.10.44:700][254]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-22.10.44:700][254]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-22.10.44:700][254]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-22.10.44:702][254]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-22.10.44:702][254]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-22.10.44:709][254]LogAudioMixer: Display: Using Audio Device MSI MP271 (NVIDIA High Definition Audio)
+[2023.01.20-22.10.44:709][254]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-22.10.44:709][254]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-22.10.44:709][254]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-22.10.44:710][254]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-22.10.44:710][254]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-22.10.44:710][254]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-22.10.44:711][254]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-22.10.44:711][254]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-22.10.44:711][254]LogInit: FAudioDevice initialized.
+[2023.01.20-22.10.44:711][254]LogAudio: Display: Audio Device (ID: 46) registered with world '2DSideScrollerExampleMap'.
+[2023.01.20-22.10.44:729][254]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.20-22.10.44:734][254]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.20-23.10.44
+[2023.01.20-22.10.44:735][254]LogWorld: Bringing up level for play took: 0.003994
+[2023.01.20-22.10.44:735][254]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2023.01.20-22.10.44:740][254]PIE: Server logged in
+[2023.01.20-22.10.44:741][254]PIE: Play in editor total start time 0,134 seconds.
+[2023.01.20-22.10.52:820][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.10.52:820][219]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.10.52:820][219]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.10.52:820][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.10.52:827][219]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-22.10.52:831][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.10.52:850][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-22.10.52:851][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.10.52:851][219]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.10.52:853][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.10.52:856][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.01.20-22.10.53:155][221]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.01.20-22.11.02:106][ 55]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Dust)
+[2023.01.20-22.11.31:240][602]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/PS_Dust588FAF554DB780D5B804AF8C6A0E10E3.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/PS_Dust.uasset'
+[2023.01.20-22.11.31:252][602]AssetCheck: New page: Asset Save: PS_Dust
+[2023.01.20-22.11.31:252][602]LogContentValidation: Display: Validating ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-22.11.34:048][828]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-22.11.34:054][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-22.11.34:054][828]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 sty 2023, 00:11:34)
+[2023.01.20-22.11.34:079][828]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.11.34:082][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003431s)
+[2023.01.20-22.11.34:083][828]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.20-22.11.34:085][828]LogPlayLevel: PIE: World Init took: (0.002789s)
+[2023.01.20-22.11.34:085][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006386s)
+[2023.01.20-22.11.34:107][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.01.20-22.11.34:111][828]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2023.01.20-22.11.34:111][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-22.11.34:111][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-22.11.34:111][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-22.11.34:111][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-22.11.34:111][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-22.11.34:111][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-22.11.34:111][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-22.11.34:111][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-22.11.34:112][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-22.11.34:112][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-22.11.34:112][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-22.11.34:112][828]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-22.11.34:114][828]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-22.11.34:114][828]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-22.11.34:121][828]LogAudioMixer: Display: Using Audio Device MSI MP271 (NVIDIA High Definition Audio)
+[2023.01.20-22.11.34:121][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-22.11.34:121][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-22.11.34:121][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-22.11.34:121][828]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-22.11.34:121][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-22.11.34:121][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-22.11.34:122][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-22.11.34:122][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-22.11.34:122][828]LogInit: FAudioDevice initialized.
+[2023.01.20-22.11.34:122][828]LogAudio: Display: Audio Device (ID: 47) registered with world '2DSideScrollerExampleMap'.
+[2023.01.20-22.11.34:129][828]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.20-22.11.34:131][828]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.20-23.11.34
+[2023.01.20-22.11.34:131][828]LogWorld: Bringing up level for play took: 0.001294
+[2023.01.20-22.11.34:131][828]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2023.01.20-22.11.34:133][828]PIE: Server logged in
+[2023.01.20-22.11.34:134][828]PIE: Play in editor total start time 0,082 seconds.
+[2023.01.20-22.11.49:296][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.11.49:296][642]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.11.49:296][642]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.11.49:297][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.11.49:315][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-22.11.49:338][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.11.49:359][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.11.49:359][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.11.49:360][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.11.49:365][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.01.20-22.11.49:395][643]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2023.01.20-22.12.08:741][622]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-22.12.08:748][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-22.12.08:749][622]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 sty 2023, 00:12:08)
+[2023.01.20-22.12.08:770][622]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.12.08:773][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003213s)
+[2023.01.20-22.12.08:773][622]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.20-22.12.08:776][622]LogPlayLevel: PIE: World Init took: (0.002821s)
+[2023.01.20-22.12.08:776][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006170s)
+[2023.01.20-22.12.08:798][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.01.20-22.12.08:802][622]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.01.20-22.12.08:802][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-22.12.08:802][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-22.12.08:802][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-22.12.08:802][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-22.12.08:802][622]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-22.12.08:802][622]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-22.12.08:802][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-22.12.08:802][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-22.12.08:802][622]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-22.12.08:802][622]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-22.12.08:802][622]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-22.12.08:802][622]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-22.12.08:805][622]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-22.12.08:805][622]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-22.12.08:811][622]LogAudioMixer: Display: Using Audio Device MSI MP271 (NVIDIA High Definition Audio)
+[2023.01.20-22.12.08:812][622]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-22.12.08:812][622]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-22.12.08:812][622]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-22.12.08:812][622]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-22.12.08:812][622]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-22.12.08:812][622]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-22.12.08:813][622]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-22.12.08:813][622]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-22.12.08:813][622]LogInit: FAudioDevice initialized.
+[2023.01.20-22.12.08:813][622]LogAudio: Display: Audio Device (ID: 48) registered with world '2DSideScrollerExampleMap'.
+[2023.01.20-22.12.08:823][622]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.20-22.12.08:825][622]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.20-23.12.08
+[2023.01.20-22.12.08:825][622]LogWorld: Bringing up level for play took: 0.001308
+[2023.01.20-22.12.08:825][622]LogOnline: OSS: Creating online subsystem instance for: :Context_68
+[2023.01.20-22.12.08:827][622]PIE: Server logged in
+[2023.01.20-22.12.08:827][622]PIE: Play in editor total start time 0,083 seconds.
+[2023.01.20-22.12.25:283][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.12.25:283][590]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.12.25:284][590]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.12.25:284][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.12.25:288][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-22.12.25:299][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.12.25:319][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.12.25:320][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.12.25:320][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.12.25:324][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.01.20-22.12.25:486][592]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.01.20-22.12.29:513][989]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-22.12.29:519][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-22.12.29:520][989]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 sty 2023, 00:12:29)
+[2023.01.20-22.12.29:550][989]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.12.29:553][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003220s)
+[2023.01.20-22.12.29:554][989]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.20-22.12.29:556][989]LogPlayLevel: PIE: World Init took: (0.002846s)
+[2023.01.20-22.12.29:556][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006186s)
+[2023.01.20-22.12.29:577][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.01.20-22.12.29:579][989]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2023.01.20-22.12.29:579][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-22.12.29:579][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-22.12.29:580][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-22.12.29:580][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-22.12.29:580][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-22.12.29:580][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-22.12.29:580][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-22.12.29:580][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-22.12.29:580][989]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-22.12.29:580][989]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-22.12.29:580][989]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-22.12.29:580][989]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-22.12.29:582][989]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-22.12.29:582][989]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-22.12.29:589][989]LogAudioMixer: Display: Using Audio Device MSI MP271 (NVIDIA High Definition Audio)
+[2023.01.20-22.12.29:589][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-22.12.29:589][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-22.12.29:589][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-22.12.29:589][989]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-22.12.29:590][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-22.12.29:590][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-22.12.29:590][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-22.12.29:590][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-22.12.29:590][989]LogInit: FAudioDevice initialized.
+[2023.01.20-22.12.29:590][989]LogAudio: Display: Audio Device (ID: 49) registered with world '2DSideScrollerExampleMap'.
+[2023.01.20-22.12.29:601][989]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.20-22.12.29:603][989]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.20-23.12.29
+[2023.01.20-22.12.29:604][989]LogWorld: Bringing up level for play took: 0.001317
+[2023.01.20-22.12.29:604][989]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2023.01.20-22.12.29:605][989]PIE: Server logged in
+[2023.01.20-22.12.29:606][989]PIE: Play in editor total start time 0,089 seconds.
+[2023.01.20-22.12.40:658][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.12.40:658][309]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.12.40:658][309]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.12.40:659][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.12.40:676][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-22.12.40:690][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.12.40:710][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.12.40:710][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.12.40:711][309]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.12.40:716][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.01.20-22.12.40:740][310]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.01.20-22.13.08:943][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.01.20-22.13.08:959][690]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerExampleMap_Auto2A436A588486519313028F0AB4285BFD1.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2023.01.20-22.13.08:960][690]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.039
+[2023.01.20-22.13.08:961][690]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2023.01.20-22.15.41:070][457]LogSlate: Window 'PS_Dust' being destroyed
+[2023.01.20-22.15.41:091][457]LogSlate: Window 'PS_Dust' being destroyed
+[2023.01.20-22.15.41:091][457]LogCascade: Quitting Cascade. FXSystem=0x00000245FAA3DD80
+[2023.01.20-22.15.41:094][457]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.15.41:094][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.15.42:862][611]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/PS_Dust389A1B19410D81D948E48CA9DB048B8D.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Particles/PS_Dust.uasset'
+[2023.01.20-22.15.42:871][611]AssetCheck: New page: Asset Save: PS_Dust
+[2023.01.20-22.15.42:871][611]LogContentValidation: Display: Validating ParticleSystem /Game/2DSideScroller/Particles/PS_Dust.PS_Dust
+[2023.01.20-22.16.27:695][359]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Dust)
+[2023.01.20-22.16.28:888][473]Cmd: DELETE
+[2023.01.20-22.16.28:888][473]Cmd: ACTOR DELETE
+[2023.01.20-22.16.28:891][473]LogEditorActor: Deleted Actor: Emitter
+[2023.01.20-22.16.28:919][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.01.20-22.16.28:924][473]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2023.01.20-22.16.30:392][617]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-22.16.30:398][617]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.01.20-22.16.30:399][617]LogPlayLevel: [PlayLevel] Compiling 2DSideScrollerCharacter before play...
+[2023.01.20-22.16.30:458][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.01.20-22.16.30:458][617]LogPlayLevel: PlayLevel: Blueprint regeneration took 60 ms (1 blueprints)
+[2023.01.20-22.16.30:459][617]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 sty 2023, 00:16:30)
+[2023.01.20-22.16.30:499][617]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.16.30:502][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003196s)
+[2023.01.20-22.16.30:503][617]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.20-22.16.30:505][617]LogPlayLevel: PIE: World Init took: (0.003253s)
+[2023.01.20-22.16.30:505][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006585s)
+[2023.01.20-22.16.30:527][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.01.20-22.16.30:528][617]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2023.01.20-22.16.30:528][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-22.16.30:528][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-22.16.30:528][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-22.16.30:528][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-22.16.30:528][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-22.16.30:528][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-22.16.30:528][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-22.16.30:528][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-22.16.30:528][617]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-22.16.30:528][617]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-22.16.30:528][617]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-22.16.30:528][617]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-22.16.30:531][617]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-22.16.30:531][617]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-22.16.30:537][617]LogAudioMixer: Display: Using Audio Device MSI MP271 (NVIDIA High Definition Audio)
+[2023.01.20-22.16.30:537][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-22.16.30:537][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-22.16.30:537][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-22.16.30:537][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-22.16.30:537][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-22.16.30:537][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-22.16.30:539][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-22.16.30:539][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-22.16.30:539][617]LogInit: FAudioDevice initialized.
+[2023.01.20-22.16.30:539][617]LogAudio: Display: Audio Device (ID: 50) registered with world '2DSideScrollerExampleMap'.
+[2023.01.20-22.16.30:550][617]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.20-22.16.30:552][617]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.20-23.16.30
+[2023.01.20-22.16.30:553][617]LogWorld: Bringing up level for play took: 0.001328
+[2023.01.20-22.16.30:553][617]LogOnline: OSS: Creating online subsystem instance for: :Context_70
+[2023.01.20-22.16.30:555][617]PIE: Server logged in
+[2023.01.20-22.16.30:555][617]PIE: Play in editor total start time 0,159 seconds.
+[2023.01.20-22.17.35:167][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.17.35:167][363]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.17.35:168][363]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.17.35:169][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.17.35:185][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-22.17.35:193][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.17.35:215][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.17.35:216][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.17.35:217][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.17.35:222][363]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.01.20-22.17.35:241][364]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.01.20-22.17.36:518][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.01.20-22.17.36:531][490]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerExampleMapC73087924C042C0A4630A483B8450E66.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.01.20-22.17.36:543][490]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerExampleMap_BuiltDa3DE56E2F4E0CE6038C932AA1618D8037.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2023.01.20-22.17.36:553][490]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.20-22.17.36:554][490]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2023.01.20-22.17.36:554][490]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.01.20-22.18.33:766][136]LogEditorViewport: Clicking Background
+[2023.01.20-22.18.52:820][446]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-22.18.52:827][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-22.18.52:827][446]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 sty 2023, 00:18:52)
+[2023.01.20-22.18.52:853][446]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.18.52:857][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003425s)
+[2023.01.20-22.18.52:857][446]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.20-22.18.52:860][446]LogPlayLevel: PIE: World Init took: (0.003445s)
+[2023.01.20-22.18.52:860][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.007037s)
+[2023.01.20-22.18.52:886][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.01.20-22.18.52:891][446]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2023.01.20-22.18.52:891][446]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-22.18.52:891][446]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-22.18.52:891][446]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-22.18.52:891][446]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-22.18.52:891][446]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-22.18.52:891][446]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-22.18.52:891][446]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-22.18.52:891][446]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-22.18.52:892][446]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-22.18.52:892][446]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-22.18.52:892][446]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-22.18.52:892][446]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-22.18.52:894][446]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-22.18.52:895][446]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-22.18.52:901][446]LogAudioMixer: Display: Using Audio Device MSI MP271 (NVIDIA High Definition Audio)
+[2023.01.20-22.18.52:901][446]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-22.18.52:901][446]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-22.18.52:901][446]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-22.18.52:901][446]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-22.18.52:901][446]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-22.18.52:901][446]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-22.18.52:902][446]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-22.18.52:902][446]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-22.18.52:902][446]LogInit: FAudioDevice initialized.
+[2023.01.20-22.18.52:902][446]LogAudio: Display: Audio Device (ID: 51) registered with world '2DSideScrollerExampleMap'.
+[2023.01.20-22.18.52:913][446]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.20-22.18.52:915][446]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.20-23.18.52
+[2023.01.20-22.18.52:915][446]LogWorld: Bringing up level for play took: 0.001290
+[2023.01.20-22.18.52:915][446]LogOnline: OSS: Creating online subsystem instance for: :Context_71
+[2023.01.20-22.18.52:917][446]PIE: Server logged in
+[2023.01.20-22.18.52:917][446]PIE: Play in editor total start time 0,094 seconds.
+[2023.01.20-22.18.55:845][797]Cmd: LevelEditor.ToggleImmersive
+[2023.01.20-22.20.13:130][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.20.13:130][916]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.20.13:130][916]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.20.13:130][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.20.13:159][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-22.20.13:164][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.20.13:185][916]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.01.20-22.20.13:185][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.20.13:186][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.20.13:188][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.20.13:193][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.01.20-22.20.13:206][917]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2023.01.20-22.20.19:732][462]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-22.20.19:739][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-22.20.19:739][462]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 sty 2023, 00:20:19)
+[2023.01.20-22.20.19:777][462]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.20.19:780][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003233s)
+[2023.01.20-22.20.19:781][462]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.20-22.20.19:783][462]LogPlayLevel: PIE: World Init took: (0.002654s)
+[2023.01.20-22.20.19:783][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006021s)
+[2023.01.20-22.20.19:806][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.01.20-22.20.19:808][462]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2023.01.20-22.20.19:808][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-22.20.19:808][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-22.20.19:808][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-22.20.19:808][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-22.20.19:808][462]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-22.20.19:808][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-22.20.19:808][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-22.20.19:808][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-22.20.19:809][462]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-22.20.19:809][462]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-22.20.19:809][462]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-22.20.19:809][462]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-22.20.19:811][462]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-22.20.19:811][462]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-22.20.19:818][462]LogAudioMixer: Display: Using Audio Device MSI MP271 (NVIDIA High Definition Audio)
+[2023.01.20-22.20.19:819][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-22.20.19:819][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-22.20.19:819][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-22.20.19:819][462]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-22.20.19:819][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-22.20.19:819][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-22.20.19:820][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-22.20.19:820][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-22.20.19:820][462]LogInit: FAudioDevice initialized.
+[2023.01.20-22.20.19:820][462]LogAudio: Display: Audio Device (ID: 52) registered with world '2DSideScrollerExampleMap'.
+[2023.01.20-22.20.19:830][462]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.20-22.20.19:831][462]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.20-23.20.19
+[2023.01.20-22.20.19:832][462]LogWorld: Bringing up level for play took: 0.001305
+[2023.01.20-22.20.19:832][462]LogOnline: OSS: Creating online subsystem instance for: :Context_72
+[2023.01.20-22.20.19:834][462]PIE: Server logged in
+[2023.01.20-22.20.19:834][462]PIE: Play in editor total start time 0,098 seconds.
+[2023.01.20-22.20.26:080][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.20.26:080][154]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.20.26:080][154]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.20.26:080][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.20.26:091][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-22.20.26:095][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.20.26:115][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.20.26:116][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.20.26:117][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.20.26:122][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.01.20-22.20.26:144][156]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.01.20-22.20.36:965][507]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.20-22.20.36:972][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-22.20.36:972][507]PIE: New page: PIE session: 2DSideScrollerExampleMap (21 sty 2023, 00:20:36)
+[2023.01.20-22.20.36:972][507]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.20.36:978][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005041s)
+[2023.01.20-22.20.36:979][507]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2023.01.20-22.20.36:983][507]LogPlayLevel: PIE: World Init took: (0.005044s)
+[2023.01.20-22.20.36:983][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.010222s)
+[2023.01.20-22.20.37:006][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.01.20-22.20.37:007][507]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2023.01.20-22.20.37:007][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-22.20.37:007][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-22.20.37:007][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-22.20.37:007][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-22.20.37:007][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-22.20.37:007][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.20-22.20.37:007][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-22.20.37:007][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-22.20.37:008][507]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-22.20.37:008][507]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-22.20.37:008][507]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-22.20.37:008][507]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.20-22.20.37:010][507]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.20-22.20.37:010][507]LogAudioMixer: Display: 1: FrontRight
+[2023.01.20-22.20.37:017][507]LogAudioMixer: Display: Using Audio Device MSI MP271 (NVIDIA High Definition Audio)
+[2023.01.20-22.20.37:018][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-22.20.37:018][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-22.20.37:018][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-22.20.37:018][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.20-22.20.37:018][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.20-22.20.37:018][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.20-22.20.37:019][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.20-22.20.37:019][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.20-22.20.37:019][507]LogInit: FAudioDevice initialized.
+[2023.01.20-22.20.37:019][507]LogAudio: Display: Audio Device (ID: 53) registered with world '2DSideScrollerExampleMap'.
+[2023.01.20-22.20.37:026][507]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2023.01.20-22.20.37:028][507]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2023.01.20-23.20.37
+[2023.01.20-22.20.37:028][507]LogWorld: Bringing up level for play took: 0.001300
+[2023.01.20-22.20.37:028][507]LogOnline: OSS: Creating online subsystem instance for: :Context_73
+[2023.01.20-22.20.37:030][507]PIE: Server logged in
+[2023.01.20-22.20.37:030][507]PIE: Play in editor total start time 0,061 seconds.
+[2023.01.20-22.20.42:509][161]Cmd: LevelEditor.ToggleImmersive
+[2023.01.20-22.21.55:213][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.21.55:213][839]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2023.01.20-22.21.55:213][839]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.21.55:213][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.21.55:230][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-22.21.55:235][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.21.55:258][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-22.21.55:258][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.21.55:259][839]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.21.55:266][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.01.20-22.21.55:293][842]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.01.20-22.21.56:501][913]Cmd: SELECT NONE
+[2023.01.20-22.22.05:306][144]LogEditorViewport: Clicking Background
+[2023.01.20-22.22.06:860][294]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.01.20-22.22.06:875][294]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerExampleMapB18716634F5453C498CEF1B015102BD7.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.01.20-22.22.06:886][294]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerExampleMap_BuiltDa7603B3C24CDAE578F200FDB7B281913F.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2023.01.20-22.22.06:900][294]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.20-22.22.06:900][294]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2023.01.20-22.22.06:900][294]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.01.20-22.22.12:208][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.01.20-22.22.12:223][835]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerExampleMap12AECA3A41A80C6E9F2A849C0ABD140A.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2023.01.20-22.22.12:234][835]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerExampleMap_BuiltDa479481EA4DA586E9C12E898263790EC3.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2023.01.20-22.22.12:246][835]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.20-22.22.12:246][835]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2023.01.20-22.22.12:246][835]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2023.01.20-22.22.14:638][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.01.20-22.22.14:679][ 57]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/2DSideScrollerCharacter0A755C2E433387EE15A666977F6E09A3.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2023.01.20-22.22.14:680][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/grass" FILE="C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Sprites/grass.uasset" SILENT=true
+[2023.01.20-22.22.14:773][ 57]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/grassDD3504324785A4C62F06DCB04B970CEF.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Sprites/grass.uasset'
+[2023.01.20-22.22.14:798][ 57]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/grass_1EFB4617C470C0FF3AD770CB7A44E5815.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Sprites/textures/grass_1.uasset'
+[2023.01.20-22.22.14:839][ 57]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/grass_2EA58188043A8CDE1DB0B8B9373A47D99.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Sprites/textures/grass_2.uasset'
+[2023.01.20-22.22.14:865][ 57]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/grass_30D364F5840EE3BBB1D707688459CF240.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Sprites/textures/grass_3.uasset'
+[2023.01.20-22.22.14:874][ 57]LogSavePackage: Moving 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Saved/grass_1_SpriteF2B4C8A9485463498DF5F584C63F3EB8.tmp' to 'C:/Users/majao/Documents/Unreal Projects/RobalGame/Repo_RobalGame/RobalGame/Content/2DSideScroller/Sprites/textures/grass_1_Sprite.uasset'
+[2023.01.20-22.22.14:888][ 57]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.20-22.22.14:888][ 57]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2023.01.20-22.22.14:888][ 57]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/textures/grass_1_Sprite.grass_1_Sprite
+[2023.01.20-22.22.14:888][ 57]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/textures/grass_3.grass_3
+[2023.01.20-22.22.14:888][ 57]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/grass.grass
+[2023.01.20-22.22.14:888][ 57]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/textures/grass_2.grass_2
+[2023.01.20-22.22.14:888][ 57]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/textures/grass_1.grass_1
+[2023.01.20-22.22.17:036][274]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.22.17:036][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-22.22.18:628][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.01.20-22.22.18:654][452]LogSlate: Window 'RobalGame - Unreal Editor' being destroyed
+[2023.01.20-22.22.18:771][453]Cmd: QUIT_EDITOR
+[2023.01.20-22.22.18:771][453]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.01.20-22.22.18:775][453]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.01.20-22.22.18:918][453]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.01.20-22.22.18:918][453]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.01.20-22.22.18:918][453]LogAudio: Display: Audio Device unregistered from world '2DSideScrollerExampleMap'.
+[2023.01.20-22.22.18:918][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.22.18:919][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.20-22.22.18:922][453]LogAudio: Display: Audio Device Manager Shutdown
+[2023.01.20-22.22.18:922][453]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.01.20-22.22.18:925][453]LogExit: Preparing to exit.
+[2023.01.20-22.22.19:070][453]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2023.01.20-22.22.19:151][453]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.01.20-22.22.19:151][453]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.01.20-22.22.19:151][453]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.01.20-22.22.19:151][453]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.01.20-22.22.19:151][453]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.01.20-22.22.19:151][453]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.01.20-22.22.19:152][453]LogActorComponent: UnregisterComponent: (/Engine/Transient.None) Not registered. Aborting.
+[2023.01.20-22.22.19:152][453]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.22.19:153][453]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.22.19:154][453]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-22.22.19:189][453]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.01.20-22.22.19:194][453]LogExit: Editor shut down
+[2023.01.20-22.22.19:194][453]LogExit: Transaction tracking system shut down
+[2023.01.20-22.22.19:428][453]LogExit: Object subsystem successfully closed.
+[2023.01.20-22.22.19:445][453]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.01.20-22.22.19:445][453]LogShaderCompilers: Display: Total job queries 2214, among them cache hits 1803 (81.44%)
+[2023.01.20-22.22.19:445][453]LogShaderCompilers: Display: Tracking 378 distinct input hashes that result in 203 distinct outputs (53.70%)
+[2023.01.20-22.22.19:445][453]LogShaderCompilers: Display: RAM used: 1.58 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.10%
+[2023.01.20-22.22.19:445][453]LogShaderCompilers: Display: ================================================
+[2023.01.20-22.22.19:458][453]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module DistCurveEditor (882)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module Cascade (880)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (878)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module Voice (876)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module BlueprintGraph (874)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (872)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module SceneOutliner (870)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module AddContentDialog (868)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module WidgetCarousel (867)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module EditorWidgets (864)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (862)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2023.01.20-22.22.19:468][453]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module OpenXRInput (848)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (846)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module TakeRecorder (845)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (842)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module TakesCore (840)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (832)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (826)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (824)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (822)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (820)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module WebMMedia (818)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (816)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module PlanarCut (814)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module SequenceRecorder (811)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (808)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (806)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (804)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (802)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (800)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (798)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (796)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module CharacterAI (794)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (792)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (790)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (788)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2023.01.20-22.22.19:469][453]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2023.01.20-22.22.19:470][453]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2023.01.20-22.22.19:470][453]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2023.01.20-22.22.19:470][453]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2023.01.20-22.22.19:470][453]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2023.01.20-22.22.19:470][453]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2023.01.20-22.22.21:382][453]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2023.01.20-22.22.21:383][453]MemoryProfiler: Shutdown
+[2023.01.20-22.22.21:383][453]NetworkingProfiler: Shutdown
+[2023.01.20-22.22.21:383][453]LoadingProfiler: Shutdown
+[2023.01.20-22.22.21:383][453]TimingProfiler: Shutdown
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2023.01.20-22.22.21:383][453]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2023.01.20-22.22.21:416][453]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2023.01.20-22.22.21:416][453]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2023.01.20-22.22.21:416][453]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2023.01.20-22.22.21:416][453]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2023.01.20-22.22.21:416][453]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2023.01.20-22.22.21:416][453]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2023.01.20-22.22.21:416][453]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2023.01.20-22.22.21:416][453]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2023.01.20-22.22.21:416][453]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2023.01.20-22.22.21:416][453]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2023.01.20-22.22.21:416][453]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2023.01.20-22.22.21:426][453]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2023.01.20-22.22.21:426][453]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2023.01.20-22.22.21:426][453]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2023.01.20-22.22.21:426][453]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2023.01.20-22.22.21:427][453]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2023.01.20-22.22.21:427][453]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2023.01.20-22.22.21:427][453]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2023.01.20-22.22.21:430][453]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2023.01.20-22.22.21:430][453]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2023.01.20-22.22.21:430][453]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2023.01.20-22.22.21:431][453]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2023.01.20-22.22.21:435][453]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (596)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module SynthesisEditor (590)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module Synthesis (588)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (586)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (584)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module OpenXREditor (582)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (580)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module TakeSequencer (578)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module TakeMovieScene (576)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module ScreenshotTools (574)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module AssetTags (566)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module CableComponent (564)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module AudioCapture (562)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (561)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module MediaCompositing (544)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module ImgMedia (542)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (540)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module MotoSynth (538)
+[2023.01.20-22.22.21:685][453]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (536)
+[2023.01.20-22.22.21:685][453]LogOpenImageDenoise: OIDN shutting down
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (534)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (532)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (530)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module MeshConversion (528)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module DynamicMesh (526)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (524)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module GeometricObjects (522)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (520)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (519)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (516)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (514)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module ChaosNiagara (512)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (510)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module FractureEditor (508)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (507)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module PluginBrowser (504)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (502)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (500)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module BackChannel (498)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (496)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module AutomationUtils (494)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (492)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (490)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module AlembicImporter (488)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module AlembicLibrary (487)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module GeometryCache (486)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (485)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (480)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module CurveEditorTools (478)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (476)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (474)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module CryptoKeys (472)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (464)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (462)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (460)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (458)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module UObjectPlugin (456)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (454)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (452)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module PluginUtils (450)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (448)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (446)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module GitSourceControl (444)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module SourceControl (443)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (440)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (438)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2023.01.20-22.22.21:686][453]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2023.01.20-22.22.22:376][453]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2023.01.20-22.22.22:376][453]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2023.01.20-22.22.22:376][453]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2023.01.20-22.22.22:377][453]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2023.01.20-22.22.22:377][453]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2023.01.20-22.22.22:377][453]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2023.01.20-22.22.22:377][453]LogModuleManager: Shutting down and abandoning module SignificanceManager (408)
+[2023.01.20-22.22.22:377][453]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (406)
+[2023.01.20-22.22.22:377][453]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2023.01.20-22.22.22:377][453]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2023.01.20-22.22.22:377][453]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2023.01.20-22.22.22:377][453]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2023.01.20-22.22.22:377][453]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2023.01.20-22.22.22:377][453]LogModuleManager: Shutting down and abandoning module ActorSequence (392)
+[2023.01.20-22.22.22:377][453]LogModuleManager: Shutting down and abandoning module UdpMessaging (390)
+[2023.01.20-22.22.22:478][453]LogModuleManager: Shutting down and abandoning module TcpMessaging (388)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (386)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (380)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (378)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module FacialAnimation (376)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module DataValidation (374)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (372)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (370)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (368)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (366)
+[2023.01.20-22.22.22:579][453]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (364)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (362)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (360)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (358)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module MagicLeapController (356)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (354)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module MagicLeapAR (352)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (350)
+[2023.01.20-22.22.22:579][453]LogModuleManager: Shutting down and abandoning module LevelEditor (349)
+[2023.01.20-22.22.22:580][453]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (348)
+[2023.01.20-22.22.22:580][453]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (346)
+[2023.01.20-22.22.22:580][453]LogModuleManager: Shutting down and abandoning module MainFrame (344)
+[2023.01.20-22.22.22:580][453]LogModuleManager: Shutting down and abandoning module HotReload (343)
+[2023.01.20-22.22.22:580][453]LogModuleManager: Shutting down and abandoning module ToolMenus (339)
+[2023.01.20-22.22.22:580][453]LogModuleManager: Shutting down and abandoning module TreeMap (337)
+[2023.01.20-22.22.22:580][453]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (334)
+[2023.01.20-22.22.22:580][453]LogModuleManager: Shutting down and abandoning module Niagara (332)
+[2023.01.20-22.22.22:580][453]LogModuleManager: Shutting down and abandoning module SignalProcessing (331)
+[2023.01.20-22.22.22:580][453]LogModuleManager: Shutting down and abandoning module NiagaraEditor (329)
+[2023.01.20-22.22.22:580][453]LogModuleManager: Shutting down and abandoning module ContentBrowser (328)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module ContentBrowserData (327)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module NiagaraCore (322)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module GameplayCameras (320)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (318)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (312)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2023.01.20-22.22.22:581][453]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2023.01.20-22.22.22:582][453]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2023.01.20-22.22.22:582][453]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2023.01.20-22.22.22:582][453]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2023.01.20-22.22.22:582][453]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2023.01.20-22.22.22:582][453]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2023.01.20-22.22.22:582][453]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2023.01.20-22.22.22:582][453]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.01.20-22.22.22:582][453]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.01.20-22.22.22:582][453]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2023.01.20-22.22.22:582][453]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.01.20-22.22.22:582][453]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.01.20-22.22.22:582][453]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module Core (248)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2023.01.20-22.22.22:583][453]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2023.01.20-22.22.22:584][453]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.01.20-22.22.22:585][453]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2023.01.20-22.22.22:585][453]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2023.01.20-22.22.22:585][453]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2023.01.20-22.22.22:585][453]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2023.01.20-22.22.22:585][453]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2023.01.20-22.22.22:585][453]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2023.01.20-22.22.22:585][453]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2023.01.20-22.22.22:586][453]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2023.01.20-22.22.22:586][453]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2023.01.20-22.22.22:586][453]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2023.01.20-22.22.22:586][453]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2023.01.20-22.22.22:586][453]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2023.01.20-22.22.22:586][453]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2023.01.20-22.22.22:586][453]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2023.01.20-22.22.22:586][453]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2023.01.20-22.22.22:589][453]LogHMD: Freeing OpenVRDLLHandle.
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2023.01.20-22.22.22:589][453]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2023.01.20-22.22.22:589][453]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.01.20-22.22.22:590][453]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.01.20-22.22.22:590][453]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.01.20-22.22.22:600][453]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.01.20-22.22.22:600][453]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.01.20-22.22.22:600][453]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FBB1998-4295-46E6-8042-50B35B0A0977%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=c8bd29c5426fb6049c5779b2d2185529%7C1f5df75a27e54fe481e81d3e9fbf5382%7C0b48e4be-818b-4ba2-98d1-055bb8dcf26e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.01.20-22.22.22:600][453]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.01.20-22.22.22:618][453]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.01.20-22.22.22:619][453]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.01.20-22.22.22:620][453]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module DatasmithContent (58)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.01.20-22.22.22:621][453]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.01.20-22.22.22:622][453]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.01.20-22.22.22:622][453]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.01.20-22.22.22:622][453]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.01.20-22.22.22:622][453]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.01.20-22.22.22:622][453]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.01.20-22.22.22:623][453]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.01.20-22.22.22:623][453]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.01.20-22.22.22:623][453]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.01.20-22.22.22:623][453]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.01.20-22.22.22:623][453]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.01.20-22.22.22:623][453]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.01.20-22.22.22:623][453]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.01.20-22.22.22:623][453]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.01.20-22.22.22:623][453]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.01.20-22.22.22:623][453]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.01.20-22.22.22:623][453]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.01.20-22.22.22:640][453]LogD3D11RHI: Shutdown
+[2023.01.20-22.22.22:640][453]LogD3D11RHI: CleanupD3DDevice
+[2023.01.20-22.22.22:642][453]LogExit: Exiting.
+[2023.01.20-22.22.22:649][453]Log file closed, 01/20/23 23:22:22
